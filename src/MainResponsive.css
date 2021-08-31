@@ -1,0 +1,179 @@
+*{
+    margin : 0 ;
+    padding : 0 ;
+    outline : 0 ;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none ;
+}
+ul , li {
+    list-style : none ;
+}
+img{
+    border : 0 ;
+    width : 100% ;
+}
+
+.text_center{
+    text-align: center;
+}
+
+.m_0{
+    margin : 0 !important ;
+}
+.p_0{
+    padding: 0 !important ;
+}
+.p_5{
+    padding : 5 !important;
+}
+.p_10{
+    padding : 10 !important;
+}
+.p_15{
+    padding : 15 !important;
+}
+.p_20{
+    padding : 20 !important;
+}
+.p_30{
+    padding : 30 !important;
+}
+.pb_5{
+    padding-bottom : 5 !important;
+}
+.pb_10{
+    padding-bottom : 10 !important;
+}
+.pb_15{
+    padding-bottom : 15 !important;
+}
+.pb_20{
+    padding-bottom : 20 !important;
+}
+.pb_30{
+    padding-bottom : 30 !important;
+}
+
+
+.m_auto{
+    margin : 0 auto !important;
+}
+
+.ml_auto{
+    margin-left: auto !important;
+}
+.mr_auto{
+    margin-right: auto !important;
+}
+
+.container , 
+.container_full , 
+.block_1,
+.block_50{
+    box-sizing: border-box;
+    
+}
+
+.center_x_y{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.container_full{
+    width : 100% ;
+    display: block;
+    height : 100px ;
+    padding : 0px 15px ;
+    
+}
+
+.container{
+    height: 90px ;
+    padding : 0px 30px ;
+    background-color: #f1f1f1 ;
+}
+
+.box{
+    height : 80px ;
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    background-color: lightgray;
+}
+.block_100{
+    width : 100%;
+    display : block ;
+    background-color: darkblue;
+    height : 30px ;
+    padding : 0 10px ;
+}
+.block_50{
+    display: block;
+    width : 50% ;
+    height: 30px ;
+    background-color: darkmagenta;
+    padding : 0 10px ;
+}
+.block_33{
+    display: block;
+    width : 33% ;
+    height: 30px ;
+    background-color: darkmagenta;
+    padding : 0 10px ;
+}
+.block_25{
+    display: block;
+    width : 25% ;
+    height: 30px ;
+    background-color: darkmagenta;
+    margin : 0 10px ;
+}
+
+.content{
+    width : 100% ;
+    height : 100% ;
+    background-color: lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+    .container{
+        padding : 0 ;
+    }
+}
+@media (min-width : 481px) and (max-width: 768px) {
+    .container{
+        padding : 0 15px ;
+    }
+}
+@media (min-width : 769px) and (max-width: 1024px) {
+    .container{
+        padding : 0 20px ;
+    }
+    .container , 
+    .container_full {
+        box-sizing: border-box;
+    }
+
+}
+@media (min-width : 1025px) and (max-width: 1200px) {
+    .container{
+        padding : 0 25px ;
+    }
+}   
+
+
+

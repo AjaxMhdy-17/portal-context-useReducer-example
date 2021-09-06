@@ -9,7 +9,7 @@
 a{
     text-decoration: none ;
 }
-ul , li {
+ul{
     list-style : none ;
 }
 img{
@@ -19,6 +19,10 @@ img{
 
 .text__center{
     text-align: center ;
+}
+
+.mt__10{
+    margin-top: 10px ;
 }
 
 .container{

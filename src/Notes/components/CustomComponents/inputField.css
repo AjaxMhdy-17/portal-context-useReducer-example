@@ -1,0 +1,14 @@
+
+.input__field{
+    resize: none;
+    width : 100% ;
+    margin-top: 10px;
+    border : none ;
+    padding : 10px 20px ;
+    border-radius: 100px  ;
+    background-color: #f3f3f3  ;
+}
+
+.input__field::placeholder{
+    text-transform: uppercase;
+}

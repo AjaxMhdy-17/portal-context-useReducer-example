@@ -1,0 +1,19 @@
+.auth__back{
+    height : 77vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width : 100% ;
+}
+
+.auth__back img{
+    width : 100% ;
+    border-radius: 8px 30px 8px 30px ;
+}
+
+.user__form{
+    background-color: cadetblue;
+    padding: 30px 0 ;
+    border-radius: 5px ;
+    box-sizing: border-box;
+}

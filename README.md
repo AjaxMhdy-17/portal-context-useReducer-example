@@ -77,3 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # firebaseBlog-basic-version-not-cleaned
 # firebaseBlog-basic-version-not-cleaned
 # firebaseBlog-basic-version-not-cleaned
+# colorBuilderApp-version2

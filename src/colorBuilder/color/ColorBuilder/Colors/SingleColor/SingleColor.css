@@ -1,0 +1,80 @@
+
+/* .main__singleColor{
+    background-color: blue;
+    display: flex;
+    flex-direction: row ;
+} */
+
+.color{
+    height : 40px ;
+    width : 40px ;
+    background-color: transparent;
+    border-radius: 50% ;
+    position: relative;
+    margin: 40px ;
+}
+.color::before{
+    position: absolute;
+    content: '';
+    height: 11px ;
+    width : 11px ;
+    background-color: orange;
+    top : 100% ;
+    left : 100% ;
+    border-radius: 2px;
+}
+.color::after{
+    position: absolute;
+    content: '';
+    height: 9px ;
+    width : 9px ;
+    background-color: lime;
+    bottom : 100% ;
+    right : 100% ;
+    border-radius: 2px;
+}
+
+.color__box::before{
+    position: absolute;
+    content: '';
+    height: 15px ;
+    width : 15px ;
+    background-color: darkorchid;
+    top : 100% ;
+    right : 100% ;
+    border-radius: 4px ;
+}
+.color__box::after{
+    position: absolute;
+    content: '';
+    height: 13px ;
+    width : 13px ;
+    background-color: crimson;
+    bottom : 100% ;
+    left : 100% ;
+    border-radius: 4px ;
+}
+
+
+.purple{
+    background-color: indigo ;
+}
+
+.green{
+    background-color: seagreen;
+}
+
+.blue{
+    background-color: steelblue;
+}
+
+.red{
+    background-color: tomato;
+}
+
+.black{
+    background-color: black;
+}
+.brown{
+    background-color: burlywood
+}

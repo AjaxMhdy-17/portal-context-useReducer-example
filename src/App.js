@@ -3,7 +3,7 @@ import './App.css' ;
 
 // import Index from './color/Index'
 
-import Index from './colorBuilder/color/Index';
+import Index from './Ex/Index';
 
 function App() {
   return (

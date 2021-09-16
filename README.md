@@ -68,17 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# colorBuilder-version01
-# colorBuilder-version01
-# colorBuilder-version01
-# colorBuilder-version01
-# colorBuilder-version01-
-# colorBuilder-version01
-# firebaseBlog-basic-version-not-cleaned
-# firebaseBlog-basic-version-not-cleaned
-# firebaseBlog-basic-version-not-cleaned
-# colorBuilderApp-version2
-# colorBuilderApp-version2
-# colorBuilderApp-version2
-# portal-context-useReducer-example
-# portal-context-useReducer-example
